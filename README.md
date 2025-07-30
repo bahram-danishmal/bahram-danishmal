@@ -5,7 +5,7 @@ I’m a Year 12 student currently working on my Computer Science NEA, alongside 
 
 ---
 
-# What I’ve Done
+## What I’ve Done
 
 - Built a **robotic dog** using Python and ML, responds to real-time sensor inputs and recognises objects
 - Awarded for my essays on **AI ethics** and **machine learning** by Cambridge and Oxford 
@@ -17,7 +17,7 @@ I’m a Year 12 student currently working on my Computer Science NEA, alongside 
 
 ---
 
-# Currently Working On
+## Currently Working On
 
 - My **Computer Science NEA**
 - Developing stronger ML skills & system design techniques
@@ -26,9 +26,9 @@ I’m a Year 12 student currently working on my Computer Science NEA, alongside 
 
 ---
 
-# Let’s Connect
+## Let’s Connect
 
-📧 [bahram@webpexel.com](mailto:bahram@webpexel.com)
+📧 [bahram@webpexel.com](mailto:bahram@webpexel.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/bahram-danishmal-63730731b/)  
 🌐 [WebPexel](https://webpexel.com)
 
