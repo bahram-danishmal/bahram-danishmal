@@ -12,7 +12,8 @@ I’m a Year 12 student currently working on my Computer Science NEA, alongside 
 - Founder of [WebPexel](https://webpexel.com) – offering professional services in SEO, websites, CRMs, and more
 - Gained hands-on experience with **ethical penetration testing** using a Raspberry Pi & Kali Linux
 - Explored network security using Tails OS, learning how data flows, anonymisation works, and how the dark web operates
-- Spent 5 insightful days with the UKHSA Cybersecurity Department, gaining hands-on experience to real-world threats, tools, and protocols used to protect national systems.
+- Spent an insightful week with the UKHSA Cybersecurity Department, gaining hands-on experience to real-world threats, tools, and protocols used to protect national systems.
+- Selected for a highly competitive Quant Finance Work Experience at G-Research, where I developed and tested trading strategies using Python, Pandas, and Plotly, applied Lagrange interpolation and ATR volatility filters, and gained exposure to risk management, equity curve analysis, and performance evaluation in a real-world quantitative finance environment
 - Work as a **private tutor** in GCSE Maths and Computer Science
 
 ---
